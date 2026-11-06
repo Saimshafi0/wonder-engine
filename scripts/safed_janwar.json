@@ -1,0 +1,1457 @@
+{
+ "title": "Dunya Ke 10 Hairat Angez Safed Janwar",
+ "titles": [
+  "Dunya Ke 10 Hairat Angez Safed Janwar",
+  "Polar Bear Asal Mein Safed Nahi Hai!",
+  "10 Safed Janwar Jo Aapne Kabhi Nahi Dekhe"
+ ],
+ "description": "Dunya ke 10 sab se hairat angez safed janwar: ermine, axolotl, safed mor, snowy owl, arctic fox, beluga, white tiger, white lion, spirit bear aur polar bear. Aur number 1 ka raaz: polar bear asal mein safed hai hi nahi!",
+ "tags": [
+  "safed janwar",
+  "white animals",
+  "10 white animals",
+  "rare white animals",
+  "polar bear",
+  "white tiger",
+  "white lion",
+  "spirit bear",
+  "beluga whale",
+  "arctic fox",
+  "snowy owl",
+  "axolotl",
+  "white peacock",
+  "animal facts urdu",
+  "janwaron ke hairat angez facts"
+ ],
+ "hashtags": [
+  "#Animals",
+  "#WhiteAnimals",
+  "#Nature"
+ ],
+ "sources": [
+  "National Geographic",
+  "Cornell Lab of Ornithology (snowy owl)",
+  "Norwegian Polar Institute (arctic fox, 2019)",
+  "US Geological Survey (polar bear swim, 2011)",
+  "NOAA Fisheries (beluga)"
+ ],
+ "subscribe_line": "Aisi hi aur videos ke liye channel ko subscribe karein.",
+ "pinned_comment": "In 10 mein se aapka favourite kaun sa hai? Number likhein!",
+ "channel": " ",
+ "voice": "bm_daniel",
+ "speed": 1.0,
+ "theme": "nature",
+ "thumbnail": {
+  "text": "10 SAFED\nJANWAR"
+ },
+ "thumbnails": [
+  {
+   "text": "10 SAFED\nJANWAR",
+   "picture": "white tiger face closeup",
+   "style": "face"
+  },
+  {
+   "text": "YEH SAFED\nNAHI HAI!",
+   "picture": "polar bear closeup face",
+   "style": "circle"
+  },
+  {
+   "text": "ROOH WALA\nREECH?",
+   "picture": "Kermode bear spirit bear",
+   "style": "dark"
+  }
+ ],
+ "shorts": [
+  {
+   "from_scene": 36,
+   "to_scene": 39,
+   "hook": "Polar bear safed nahi hai!",
+   "title": "Polar bear asal mein safed nahi! #shorts",
+   "comment": "Kya aapko pata tha?"
+  },
+  {
+   "from_scene": 32,
+   "to_scene": 34,
+   "hook": "Rooh wala reech",
+   "title": "Spirit bear: safed kaala reech #shorts",
+   "comment": "Kabhi suna tha?"
+  }
+ ],
+ "scenes": [
+  {
+   "chapter": "Intro",
+   "mood": "mystery",
+   "say": "Dunya mein kuch janwar aise hain jo barf ki tarah safed hain. Kisi ko qudrat ne yeh rang chhupne ke liye diya, aur kisi ko ek nayab gene ne.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Arctic fox in snow",
+      "Vulpes lagopus winter"
+     ],
+     "ai": "a white arctic fox in snow"
+    },
+    {
+     "type": "image",
+     "search": [
+      "snowy owl portrait",
+      "Bubo scandiacus"
+     ],
+     "ai": "a white snowy owl"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white peacock display",
+      "white peafowl"
+     ],
+     "ai": "a white peacock with open feathers"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Barf jaise",
+      "safed."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Aaj hum dekhenge dunya ke das sab se hairat angez safed janwar. Aur number ek ka raaz sun kar aap yaqeenan hairan reh jayenge.",
+   "visuals": [
+    {
+     "type": "title",
+     "kicker": "Top 10",
+     "text": "Hairat Angez Safed Janwar",
+     "sub": "Dunya ke sab se nayab rang"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white tiger face closeup",
+      "white Bengal tiger face"
+     ],
+     "ai": "the face of a white tiger"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Number 1 ka raaz?"
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "10. Ermine",
+   "mood": "mystery",
+   "say": "Number das. Ermine, yaani stoat.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 10,
+     "text": "Ermine (Stoat)",
+     "sub": "Europe, Asia, North America",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "stoat winter coat",
+      "Mustela erminea winter"
+     ],
+     "ai": "a white stoat in winter snow"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "KAALI DUM",
+     "label": "sirf yahi rang badalta nahi",
+     "on": "dum",
+     "kind": "fact"
+    }
+   ],
+   "say": "Garmiyon mein yeh bhoora hota hai. Lekin sardiyon mein iska poora jism barf jaisa safed ho jata hai. Sirf dum ki nok kaali rehti hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "stoat summer coat",
+      "Mustela erminea summer"
+     ],
+     "ai": "a brown stoat in summer"
+    },
+    {
+     "type": "image",
+     "search": [
+      "ermine white black tail tip",
+      "stoat ermine snow"
+     ],
+     "ai": "a white stoat with a black tail tip"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Garmi: bhoora.",
+      "Sardi: safed."
+     ]
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "SHAHI LIBAS",
+     "label": "badshahon ki pasand",
+     "on": "shahi",
+     "kind": "money"
+    }
+   ],
+   "say": "Sadiyon tak Europe ke badshah aur raniyan isi ki safed khaal apne shahi libas par lagate the. Un kapron par jo chhote kaale dhabbe nazar aate hain, woh isi ki kaali dumein thin.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Ermine Portrait Elizabeth I",
+      "Elizabeth I ermine portrait"
+     ],
+     "ai": "a queen in a robe with white fur and black spots"
+    },
+    {
+     "type": "image",
+     "search": [
+      "coronation robe ermine fur",
+      "ermine robe"
+     ],
+     "ai": "a royal robe of white fur with black spots"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Shahi libas ka raaz."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Aur yeh sirf teen sau gram ka janwar apne se kai guna bare khargosh ka shikar kar leta hai.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 300,
+     "label": "gram, ermine ka wazan",
+     "suffix": " g",
+     "note": "Bara nar stoat, taqreeban"
+    },
+    {
+     "type": "image",
+     "search": [
+      "European rabbit",
+      "Oryctolagus cuniculus"
+     ],
+     "ai": "a wild rabbit in a field"
+    }
+   ]
+  },
+  {
+   "chapter": "9. Axolotl",
+   "mood": "hopeful",
+   "say": "Number nau. Axolotl.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 9,
+     "text": "Axolotl",
+     "sub": "Mexico City, Mexico",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "leucistic axolotl",
+      "white axolotl"
+     ],
+     "ai": "a pale pink-white axolotl"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "XOCHIMILCO",
+     "label": "Mexico City",
+     "on": "Mexico",
+     "kind": "place"
+    }
+   ],
+   "say": "Yeh muskurata hua jaanwar sirf Mexico City ki purani jheelon aur nehron mein paya jata hai. Safed aur gulabi rang wale axolotl zyada tar ghar ke aquarium mein palte hain.",
+   "visuals": [
+    {
+     "type": "map",
+     "view": [
+      -103,
+      17,
+      -96,
+      22
+     ],
+     "points": [
+      {
+       "name": "Mexico City",
+       "note": "Xochimilco",
+       "at": [
+        -99.1,
+        19.26
+       ],
+       "at_time": 0.4,
+       "side": "right"
+      }
+     ],
+     "labels": []
+    },
+    {
+     "type": "image",
+     "search": [
+      "Xochimilco canals",
+      "Xochimilco trajineras"
+     ],
+     "ai": "colourful boats on canals in Mexico City"
+    },
+    {
+     "type": "image",
+     "search": [
+      "axolotl smiling face",
+      "Ambystoma mexicanum"
+     ],
+     "ai": "the smiling face of an axolotl"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "DOBARA UGNA",
+     "label": "haath, pair, dil ka hissa",
+     "on": "dobara",
+     "kind": "fact"
+    }
+   ],
+   "say": "Iska asal kamaal yeh hai ke agar iska haath ya pair kat jaye, to woh dobara poora ug aata hai. Yahan tak ke dil aur dimagh ke kuch hisse bhi.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "axolotl gills closeup",
+      "axolotl external gills"
+     ],
+     "ai": "the feathery gills of an axolotl"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Haath kata?",
+      "Naya ug aaya."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Aur yeh saari umar bachpan wali shakal mein hi rehta hai. Afsos, jungle mein ab yeh bohat kam reh gaye hain.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "axolotl aquarium",
+      "axolotl swimming"
+     ],
+     "ai": "an axolotl swimming in an aquarium"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Jungle mein",
+      "khatre mein."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "8. Safed Mor",
+   "mood": "hopeful",
+   "say": "Number aath. Safed mor.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 8,
+     "text": "Safed Mor",
+     "sub": "White Peacock",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "white peacock feathers fanned",
+      "Pavo cristatus white"
+     ],
+     "ai": "a white peacock fanning its tail"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "LEUCISM",
+     "label": "albino nahi",
+     "on": "leucism",
+     "kind": "fact"
+    }
+   ],
+   "say": "Bohat log samajhte hain yeh albino hai. Lekin aisa nahi. Is mein leucism hai, yaani rang banane wale cells iske pankhon tak pohanchte hi nahi.",
+   "visuals": [
+    {
+     "type": "text",
+     "lines": [
+      "Albino?",
+      "Nahi."
+     ],
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "white peafowl closeup head",
+      "white peafowl head"
+     ],
+     "ai": "the head of a white peacock"
+    },
+    {
+     "type": "image",
+     "search": [
+      "peacock feather detail",
+      "peacock train feathers"
+     ],
+     "ai": "a close-up of peacock feathers"
+    }
+   ]
+  },
+  {
+   "say": "Jab yeh apne lambe pankh kholta hai, jo dedh meter tak lambe ho sakte hain, to lagta hai jaise kisi ne safed lace ka parda phaila diya ho.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 1.5,
+     "label": "meter lambe pankh",
+     "suffix": " m",
+     "note": "Nar mor ki dum (train)"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white peacock in garden",
+      "white peacock garden"
+     ],
+     "ai": "a white peacock in a palace garden"
+    },
+    {
+     "type": "image",
+     "search": [
+      "indian blue peacock display",
+      "Indian peafowl display"
+     ],
+     "ai": "a blue peacock with open tail"
+    }
+   ]
+  },
+  {
+   "chapter": "7. Snowy Owl",
+   "mood": "mystery",
+   "say": "Number saat. Snowy owl, yaani barfani ullu.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 7,
+     "text": "Snowy Owl",
+     "sub": "Arctic tundra",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "snowy owl flying",
+      "snowy owl in flight"
+     ],
+     "ai": "a white owl flying over snow"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "ARCTIC",
+     "label": "din mein shikar",
+     "on": "Arctic",
+     "kind": "place"
+    }
+   ],
+   "say": "Zyada tar ullu raat ko shikar karte hain. Lekin yeh din mein bhi shikar karta hai, kyunke Arctic ki garmiyon mein suraj kai hafton tak doobta hi nahi.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Arctic tundra summer",
+      "tundra landscape"
+     ],
+     "ai": "the flat Arctic tundra"
+    },
+    {
+     "type": "image",
+     "search": [
+      "midnight sun Arctic",
+      "midnight sun"
+     ],
+     "ai": "the sun low over the Arctic at midnight"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Suraj",
+      "doobta hi nahi."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "1,600+",
+     "label": "lemming har saal",
+     "on": "solah",
+     "kind": "fact"
+    }
+   ],
+   "say": "Iska pasandeeda khana lemming hai, ek chhota sa chooha. Ek akela snowy owl saal mein solah sau se zyada lemming kha sakta hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Norway lemming",
+      "lemming"
+     ],
+     "ai": "a small round lemming"
+    },
+    {
+     "type": "stat",
+     "number": 1600,
+     "label": "lemming, ek saal mein",
+     "suffix": "+",
+     "note": "Cornell Lab of Ornithology"
+    }
+   ]
+  },
+  {
+   "say": "Mazedar baat, bilkul safed sirf boorhe nar hote hain. Maadaon ke pankhon par kaale dhabbe hote hain.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "snowy owl female spotted",
+      "female snowy owl"
+     ],
+     "ai": "a white owl with dark spots"
+    },
+    {
+     "type": "image",
+     "search": [
+      "snowy owl male pure white",
+      "male snowy owl"
+     ],
+     "ai": "an almost pure white owl"
+    }
+   ]
+  },
+  {
+   "chapter": "6. Arctic Fox",
+   "mood": "tense",
+   "say": "Number chhe. Arctic fox, yaani barfani lomri.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 6,
+     "text": "Arctic Fox",
+     "sub": "Arctic Circle",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "arctic fox curled up sleeping",
+      "arctic fox sleeping"
+     ],
+     "ai": "a white fox curled up in snow"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "-50°C",
+     "label": "phir bhi zinda",
+     "on": "pachas",
+     "kind": "fact"
+    }
+   ],
+   "say": "Iski khaal itni garam hai ke yeh minus pachas degree ki sardi mein bhi zinda reh leti hai. Garmiyon mein iska rang bhoora ho jata hai.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": -50,
+     "label": "degree Celsius tak sardi",
+     "suffix": "°C",
+     "note": "Arctic fox ki bardasht"
+    },
+    {
+     "type": "image",
+     "search": [
+      "arctic fox summer coat brown",
+      "arctic fox summer"
+     ],
+     "ai": "a brown-grey fox in summer"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Minus 50 degree."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Yeh barf ke neeche chalte hue choohon ki awaaz sun leti hai, aur upar se ek lambi chhalang laga kar seedha unhein pakad leti hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "arctic fox pouncing",
+      "fox jumping into snow"
+     ],
+     "ai": "a fox diving head-first into snow"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Suno.",
+      "Chhalang.",
+      "Shikar."
+     ]
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "3,500 KM",
+     "label": "76 din mein paidal",
+     "on": "teen",
+     "kind": "place"
+    }
+   ],
+   "say": "Aur 2019 mein scientists ne ek jawan maada lomri ko track kiya, jo Norway ke Svalbard se Canada tak sirf chhihattar din mein teen hazaar paanch sau kilometer paidal chali gayi.",
+   "visuals": [
+    {
+     "type": "map",
+     "view": [
+      -90,
+      55,
+      30,
+      82
+     ],
+     "points": [
+      {
+       "name": "Svalbard",
+       "note": "Norway",
+       "at": [
+        16,
+        78.5
+       ],
+       "at_time": 0.4,
+       "side": "right"
+      },
+      {
+       "name": "Canada",
+       "note": "Ellesmere Island",
+       "at": [
+        -78,
+        79.5
+       ],
+       "at_time": 1.1,
+       "side": "left"
+      }
+     ],
+     "labels": [
+      {
+       "text": "Arctic Ocean",
+       "at": [
+        -30,
+        84
+       ],
+       "kind": "sea"
+      }
+     ]
+    },
+    {
+     "type": "stat",
+     "number": 3500,
+     "label": "kilometer, 76 din mein",
+     "suffix": " km",
+     "note": "Norwegian Polar Institute, 2019"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "76 din.",
+      "3,500 km."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "5. Beluga",
+   "mood": "hopeful",
+   "say": "Number paanch. Beluga whale.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 5,
+     "text": "Beluga Whale",
+     "sub": "Arctic Ocean",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "beluga whale underwater",
+      "Delphinapterus leucas"
+     ],
+     "ai": "a white beluga whale underwater"
+    }
+   ]
+  },
+  {
+   "say": "Yeh paida grey rang mein hoti hai. Jaise jaise badi hoti hai, iska rang safed hota jata hai, yahan tak ke poori whale barf jaisi safed ho jati hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "beluga calf grey",
+      "beluga mother and calf"
+     ],
+     "ai": "a grey baby beluga beside its white mother"
+    },
+    {
+     "type": "image",
+     "search": [
+      "beluga pod Hudson Bay",
+      "beluga group"
+     ],
+     "ai": "a group of white belugas in the sea"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Grey se",
+      "safed."
+     ]
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "SEA CANARY",
+     "label": "samundar ki koyal",
+     "on": "koyal",
+     "kind": "fact"
+    }
+   ],
+   "say": "Sailor isse samundar ki koyal kehte the, kyunke yeh seetiyan bajati hai, cheekhti hai aur ajeeb ajeeb awaazein nikalti hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "beluga whale face smiling",
+      "beluga head closeup"
+     ],
+     "ai": "the round smiling head of a beluga"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Samundar ki",
+      "koyal."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Aur doosri whales ke bar-aks, yeh apni gardan ghuma kar idhar udhar dekh sakti hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "beluga turning head",
+      "beluga whale aquarium"
+     ],
+     "ai": "a beluga looking sideways"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Gardan",
+      "ghuma sakti hai."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "4. White Tiger",
+   "mood": "epic",
+   "say": "Number chaar. Safed sher, yaani white tiger.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 4,
+     "text": "White Tiger",
+     "sub": "India",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "white tiger walking",
+      "white Bengal tiger walking"
+     ],
+     "ai": "a white tiger walking"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "BENGAL TIGER",
+     "label": "wohi nasal",
+     "on": "Bengal",
+     "kind": "fact"
+    }
+   ],
+   "say": "Yeh koi alag nasal nahi, balke Bengal tiger hi hai jis mein ek nayab gene hota hai. Aur yeh albino bhi nahi, kyunke iski dhariyan kaali hoti hain aur aankhein aksar neeli.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Bengal tiger orange",
+      "Panthera tigris tigris"
+     ],
+     "ai": "an orange Bengal tiger"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white tiger blue eyes",
+      "white tiger eyes"
+     ],
+     "ai": "the blue eyes of a white tiger"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Albino nahi.",
+      "Ek nayab gene."
+     ]
+    }
+   ]
+  },
+  {
+   "date": "1951",
+   "pops": [
+    {
+     "text": "MOHAN",
+     "label": "Rewa, 1951",
+     "on": "Mohan",
+     "kind": "person"
+    }
+   ],
+   "say": "1951 mein Hindustan ke Rewa ke jungle se ek safed sher ka bachcha pakda gaya. Uska naam Mohan rakha gaya. Aaj dunya ke zoo mein jo safed sher hain, unmein se zyada tar usi ki nasal se hain.",
+   "visuals": [
+    {
+     "type": "map",
+     "view": [
+      68,
+      8,
+      92,
+      34
+     ],
+     "points": [
+      {
+       "name": "Rewa",
+       "note": "1951",
+       "at": [
+        81.3,
+        24.53
+       ],
+       "at_time": 0.4,
+       "side": "right"
+      }
+     ],
+     "labels": []
+    },
+    {
+     "type": "image",
+     "search": [
+      "Rewa Madhya Pradesh",
+      "Rewa fort"
+     ],
+     "ai": "an old palace in central India"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white tiger cub",
+      "white tiger cubs"
+     ],
+     "ai": "white tiger cubs"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Mohan.",
+      "1951."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Jungle mein ab safed sher shayad hi kabhi nazar aata hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Indian forest Bandhavgarh",
+      "Bandhavgarh National Park"
+     ],
+     "ai": "a forest in central India"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Jungle mein",
+      "taqreeban gayab."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "3. White Lion",
+   "mood": "epic",
+   "say": "Number teen. Safed sher-babbar, yaani white lion.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 3,
+     "text": "White Lion",
+     "sub": "Timbavati, South Africa",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "white lion male",
+      "white lion portrait"
+     ],
+     "ai": "a white male lion"
+    }
+   ]
+  },
+  {
+   "date": "1975",
+   "pops": [
+    {
+     "text": "TIMBAVATI",
+     "label": "South Africa",
+     "on": "Timbavati",
+     "kind": "place"
+    }
+   ],
+   "say": "Yeh sirf South Africa ke Timbavati ilaqe aur uske aas paas paidaish se jungle mein paye gaye hain. Scientists ne inhein pehli baar 1975 mein record kiya.",
+   "visuals": [
+    {
+     "type": "map",
+     "view": [
+      16,
+      -35,
+      33,
+      -22
+     ],
+     "points": [
+      {
+       "name": "Timbavati",
+       "note": "Kruger ke paas",
+       "at": [
+        31.3,
+        -24.4
+       ],
+       "at_time": 0.4,
+       "side": "left"
+      }
+     ],
+     "labels": []
+    },
+    {
+     "type": "image",
+     "search": [
+      "Kruger National Park landscape",
+      "Kruger savanna"
+     ],
+     "ai": "the African savanna at sunset"
+    },
+    {
+     "type": "stat",
+     "number": 1975,
+     "label": "pehli baar record",
+     "note": "Timbavati, South Africa"
+    }
+   ]
+  },
+  {
+   "say": "Inhein bhi albino samajhna ghalat hai. Unki aankhein, naak aur panjon ka rang aam sheron jaisa hota hai. Bas khaal aur baal safed.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "white lion cub",
+      "white lion cubs"
+     ],
+     "ai": "white lion cubs playing"
+    },
+    {
+     "type": "image",
+     "search": [
+      "white lioness",
+      "white lioness portrait"
+     ],
+     "ai": "a white lioness resting"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Sirf baal",
+      "safed."
+     ]
+    }
+   ]
+  },
+  {
+   "say": "Africa ki maqami kahaniyon mein inhein muqaddas mana jata hai, jaise aasmaan se utre hue tohfe.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "African savanna sunset acacia",
+      "acacia tree sunset"
+     ],
+     "ai": "an acacia tree at sunset"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Aasmaan ka",
+      "tohfa."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "2. Spirit Bear",
+   "mood": "mystery",
+   "say": "Number do. Spirit bear, yaani rooh wala reech.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 2,
+     "text": "Spirit Bear",
+     "sub": "British Columbia, Canada",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Kermode bear spirit bear",
+      "Ursus americanus kermodei"
+     ],
+     "ai": "a white bear in a green rainforest"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "GREAT BEAR RAINFOREST",
+     "label": "Canada",
+     "on": "Rainforest",
+     "kind": "place"
+    }
+   ],
+   "say": "Yeh asal mein kaala reech hai. Lekin Canada ke Great Bear Rainforest ke kuch jazeeron par, ek nayab gene ki wajah se, kai reech safed paida hote hain.",
+   "visuals": [
+    {
+     "type": "map",
+     "view": [
+      -135,
+      48,
+      -120,
+      58
+     ],
+     "points": [
+      {
+       "name": "Great Bear Rainforest",
+       "note": "British Columbia",
+       "at": [
+        -128.6,
+        52.9
+       ],
+       "at_time": 0.4,
+       "side": "right"
+      }
+     ],
+     "labels": [
+      {
+       "text": "Pacific Ocean",
+       "at": [
+        -132,
+        50.5
+       ],
+       "kind": "sea"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "search": [
+      "Great Bear Rainforest",
+      "British Columbia rainforest"
+     ],
+     "ai": "a misty coastal rainforest"
+    },
+    {
+     "type": "image",
+     "search": [
+      "American black bear",
+      "Ursus americanus"
+     ],
+     "ai": "a black bear in a forest"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Kaala reech.",
+      "Safed bachcha."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Wahan ke maqami logon ki kahani hai ke kawwe ne har das mein se ek reech ko safed bana diya, taake log yaad rakhein ke kabhi yeh sari zameen barf se dhaki thi.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "raven bird",
+      "Corvus corax"
+     ],
+     "ai": "a black raven"
+    },
+    {
+     "type": "image",
+     "search": [
+      "glacier ice age landscape",
+      "glacier mountains"
+     ],
+     "ai": "glaciers in the mountains"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Har 10 mein",
+      "se ek."
+     ]
+    }
+   ]
+  },
+  {
+   "say": "Aur ek study mein dekha gaya ke din ke waqt safed reech kaale reechon se zyada machhliyan pakadte hain, kyunke paani ke andar machhli ko aasmaan ke rang ka safed reech nazar hi nahi aata.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "bear catching salmon",
+      "bear fishing salmon"
+     ],
+     "ai": "a bear catching a salmon in a river"
+    },
+    {
+     "type": "image",
+     "search": [
+      "salmon swimming upstream",
+      "salmon run"
+     ],
+     "ai": "salmon jumping upstream"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Machhli ko",
+      "nazar hi nahi aata."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "1. Polar Bear",
+   "mood": "epic",
+   "say": "Aur number ek. Polar bear, yaani barfani reech.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 1,
+     "text": "Polar Bear",
+     "sub": "The Arctic",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "polar bear on sea ice",
+      "Ursus maritimus"
+     ],
+     "ai": "a polar bear walking on sea ice"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "700 KG",
+     "label": "bara nar",
+     "on": "saat",
+     "kind": "fact"
+    }
+   ],
+   "say": "Yeh zameen par rehne wala dunya ka sab se bara gosht khor janwar hai. Ek bara nar polar bear saat sau kilo tak ka ho sakta hai.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 700,
+     "label": "kilo tak wazan",
+     "suffix": " kg",
+     "note": "Bare nar polar bear"
+    },
+    {
+     "type": "image",
+     "search": [
+      "polar bear standing up",
+      "polar bear standing"
+     ],
+     "ai": "a polar bear standing on its back legs"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Sab se bara",
+      "shikari."
+     ]
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "687 KM",
+     "label": "lagataar tairna",
+     "on": "chhe",
+     "kind": "place"
+    }
+   ],
+   "say": "Yeh samundar mein bhi bahadur tairak hai. Ek maada polar bear ko scientists ne nau din mein lagataar chhe sau sattasi kilometer tairte hue record kiya.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "polar bear swimming",
+      "polar bear underwater"
+     ],
+     "ai": "a polar bear swimming"
+    },
+    {
+     "type": "stat",
+     "number": 687,
+     "label": "kilometer, 9 din tairna",
+     "suffix": " km",
+     "note": "US Geological Survey study, 2011"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "9 din.",
+      "Bina ruke."
+     ]
+    }
+   ]
+  },
+  {
+   "say": "Lekin ab woh raaz jo maine shuru mein kaha tha. Polar bear asal mein safed hai hi nahi.",
+   "visuals": [
+    {
+     "type": "text",
+     "lines": [
+      "Polar bear",
+      "safed nahi hai."
+     ],
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "polar bear closeup face",
+      "polar bear face"
+     ],
+     "ai": "the face of a polar bear"
+    }
+   ]
+  },
+  {
+   "say": "Iske baal andar se khokhle aur shishe ki tarah transparent hote hain. Roshni un par pad kar bikhar jati hai, is liye hamein woh safed nazar aate hain.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "polar bear fur closeup",
+      "polar bear hair"
+     ],
+     "ai": "a close-up of polar bear fur"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Baal:",
+      "transparent."
+     ]
+    },
+    {
+     "type": "image",
+     "search": [
+      "sunlight on snow sparkle",
+      "snow crystals sunlight"
+     ],
+     "ai": "sunlight sparkling on snow"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "KAALI KHAAL",
+     "label": "baalon ke neeche",
+     "on": "kaali",
+     "kind": "fact"
+    }
+   ],
+   "say": "Aur in safed nazar aane wale baalon ke neeche, iski khaal bilkul kaali hai. Taake suraj ki har garmi ko apne andar jazb kar sake.",
+   "visuals": [
+    {
+     "type": "text",
+     "lines": [
+      "Aur khaal?",
+      "Kaali."
+     ],
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "polar bear black nose",
+      "polar bear nose closeup"
+     ],
+     "ai": "the black nose of a polar bear"
+    },
+    {
+     "type": "image",
+     "search": [
+      "polar bear mother and cubs",
+      "polar bear cubs"
+     ],
+     "ai": "a polar bear mother with two cubs"
+    }
+   ]
+  },
+  {
+   "chapter": "Outro",
+   "mood": "hopeful",
+   "say": "To yeh the dunya ke das sab se hairat angez safed janwar. Kisi ke liye safed rang chhupne ka hathiyar hai, aur kisi ke liye qudrat ka ek nayab tohfa.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "arctic hare in snow",
+      "Lepus arcticus"
+     ],
+     "ai": "a white arctic hare in snow"
+    },
+    {
+     "type": "image",
+     "search": [
+      "snowy mountains sunrise Arctic",
+      "Arctic mountains"
+     ],
+     "ai": "snowy Arctic mountains at sunrise"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Hathiyar.",
+      "Ya tohfa."
+     ]
+    }
+   ]
+  },
+  {
+   "say": "Aapko in mein se kaun sa janwar sab se zyada pasand aaya? Comment mein zaroor batayein. Aur aisi hi videos ke liye channel ko subscribe karna na bhoolein.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "husky dog blue eyes snow",
+      "white husky snow"
+     ],
+     "ai": "a white husky dog in the snow"
+    },
+    {
+     "type": "title",
+     "kicker": "Comment karein",
+     "text": "Aapka favourite?",
+     "sub": "Subscribe karna na bhoolein"
+    }
+   ]
+  }
+ ]
+}
