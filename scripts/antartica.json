@@ -1,0 +1,493 @@
+{
+ "title": "Antarctica Ke 5 Sab Se Bade Raaz",
+ "titles": [
+  "Antarctica Ke 5 Sab Se Bade Raaz",
+  "Antarctica Ke Andar Khoon Bah Raha Hai!",
+  "Woh Raaz Jo Ice Ke Neeche Chhupe Hain"
+ ],
+ "description": "Antarctica ke 5 sab se hairat angez raaz: Blood Falls, Gamburtsev Mountains, 90 million saal purani rainforests, Lake Vostok aur sab se bada raaz jo ice ke neeche chhupa hua hai.",
+ "tags": [
+  "antarctica",
+  "antarctica raaz",
+  "blood falls",
+  "lake vostok",
+  "gamburtsev mountains",
+  "antarctica facts urdu",
+  "antarctica ke raaz",
+  "ice ke neeche",
+  "antarctic mysteries"
+ ],
+ "hashtags": [
+  "#Antarctica",
+  "#AntarcticaFacts",
+  "#Nature"
+ ],
+ "sources": [
+  "National Geographic",
+  "British Antarctic Survey",
+  "Live Science",
+  "Discover Magazine",
+  "NASA"
+ ],
+ "subscribe_line": "Aisi hi aur videos ke liye channel ko subscribe karein.",
+ "pinned_comment": "In 5 raazon mein se kaun sa sab se zyada shocking laga? Number likhein!",
+ "voice": "none",
+ "speed": 1.0,
+ "theme": "nature",
+ "thumbnail": {
+  "text": "5 RAAZ\nANTARCTICA"
+ },
+ "thumbnails": [
+  {
+   "text": "5 RAAZ\nANTARCTICA",
+   "picture": "Blood Falls Antarctica",
+   "style": "face"
+  },
+  {
+   "text": "KHOON\nBAH RAHA HAI",
+   "picture": "Blood Falls red ice",
+   "style": "circle"
+  },
+  {
+   "text": "ICE KE\nNEECHE?",
+   "picture": "Antarctica ice sheet radar",
+   "style": "dark"
+  }
+ ],
+ "shorts": [
+  {
+   "from_scene": 6,
+   "to_scene": 8,
+   "hook": "Antarctica mein khoon bah raha hai!",
+   "title": "Blood Falls ka raaz #shorts",
+   "comment": "Kya aapko pata tha?"
+  },
+  {
+   "from_scene": 16,
+   "to_scene": 18,
+   "hook": "90 million saal pehle yahan jungle tha",
+   "title": "Antarctica pehle jungle tha #shorts",
+   "comment": "Shocking hai na?"
+  }
+ ],
+ "scenes": [
+  {
+   "chapter": "Intro",
+   "mood": "mystery",
+   "say": "Antarctica sirf barf ka ek bada sa tukda nahi hai. Iske neeche aise raaz chhupe hain jo scientists ab tak poori tarah samajh nahi paaye.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Antarctica aerial ice",
+      "Antarctica landscape"
+     ],
+     "ai": "vast white Antarctica ice sheet from above"
+    },
+    {
+     "type": "image",
+     "search": [
+      "Blood Falls Antarctica",
+      "Blood Falls Taylor Glacier"
+     ],
+     "ai": "red waterfall staining white ice"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Barf ke neeche",
+      "raaz."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Aaj hum dekhenge Antarctica ke paanch sab se bade raaz. Aur number ek aisa hai jo aapko yaqeen hi nahi aayega.",
+   "visuals": [
+    {
+     "type": "title",
+     "kicker": "Top 5",
+     "text": "Antarctica Ke Raaz",
+     "sub": "Ice ke neeche chhupa dunya"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Number 1 ka raaz?"
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "5. Blood Falls",
+   "mood": "mystery",
+   "say": "Number paanch. Blood Falls.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 5,
+     "text": "Blood Falls",
+     "sub": "Taylor Glacier",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Blood Falls Antarctica",
+      "Blood Falls red"
+     ],
+     "ai": "bright red waterfall on white glacier"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "KHOON NAHI",
+     "label": "iron oxide",
+     "on": "khoon",
+     "kind": "fact"
+    }
+   ],
+   "say": "Yeh waterfall safed barf par khoon ki tarah laal rang se beh raha hai. Lekin yeh khoon nahi hai. Yeh glacier ke neeche se aane wala iron-rich paani hai jo hawa se milte hi laal ho jata hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Blood Falls closeup",
+      "Taylor Glacier Blood Falls"
+     ],
+     "ai": "close-up of red stained ice"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Khoon nahi.",
+      "Iron."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Is paani ke andar aise microbes hain jo light aur oxygen ke bina millions of years se zinda hain. Yeh Mars jaise ilaqon ki life ka model hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Blood Falls microbes",
+      "iron rich brine"
+     ],
+     "ai": "reddish water flowing from glacier"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Oxygen ke bina",
+      "zinda."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "4. Gamburtsev Mountains",
+   "mood": "epic",
+   "say": "Number chaar. Gamburtsev Mountains.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 4,
+     "text": "Gamburtsev Mountains",
+     "sub": "Ice ke neeche",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Gamburtsev Mountains radar",
+      "Antarctica subglacial mountains"
+     ],
+     "ai": "radar image of buried mountains under ice"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "ALPS JAISA",
+     "label": "kisi ne nahi dekha",
+     "on": "Alps",
+     "kind": "fact"
+    }
+   ],
+   "say": "Antarctica ke ice ke neeche ek poori mountain range chhupi hui hai jo size mein Alps jitni badi hai. Peaks 3000 meter tak unchi hain, lekin 4 kilometer ice ke neeche. Kisi insaan ne inhein kabhi aankhon se nahi dekha.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 3000,
+     "label": "meter unchi peaks",
+     "suffix": " m",
+     "note": "Gamburtsev Mountains"
+    },
+    {
+     "type": "image",
+     "search": [
+      "Alps mountains",
+      "Swiss Alps"
+     ],
+     "ai": "snowy mountain peaks like the Alps"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Alps jitni badi.",
+      "Kabhi nahi dikhi."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "chapter": "3. Ancient Rainforests",
+   "mood": "hopeful",
+   "say": "Number teen. Antarctica pehle jungle tha.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 3,
+     "text": "Ancient Rainforests",
+     "sub": "90 million years ago",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Antarctica fossil forest",
+      "Cretaceous Antarctica rainforest"
+     ],
+     "ai": "ancient green rainforest landscape"
+    }
+   ]
+  },
+  {
+   "say": "90 million saal pehle, jab dinosaurs zinda the, Antarctica ke coast par temperate rainforest thi. Average temperature 12 degree Celsius tha. Scientists ne yahan amber, roots aur pollen fossils paye hain.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Antarctic amber fossil",
+      "fossil forest Antarctica"
+     ],
+     "ai": "tiny amber fossil under microscope"
+    },
+    {
+     "type": "image",
+     "search": [
+      "Cretaceous forest illustration",
+      "dinosaur era rainforest"
+     ],
+     "ai": "lush prehistoric forest with ferns and trees"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "12 degree.",
+      "Jungle."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Yahan trees 4-5 mahine andhere mein bhi zinda rehte the. Yeh fossils batate hain ke dunya pehle kitni alag thi.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "petrified wood Antarctica",
+      "fossil tree Antarctica"
+     ],
+     "ai": "fossilized tree trunk in rock"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Andhere mein",
+      "jungle."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "2. Lake Vostok",
+   "mood": "mystery",
+   "say": "Number do. Lake Vostok.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 2,
+     "text": "Lake Vostok",
+     "sub": "4 km ice ke neeche",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Lake Vostok Antarctica",
+      "subglacial lake"
+     ],
+     "ai": "cross-section diagram of lake under ice"
+    }
+   ]
+  },
+  {
+   "pops": [
+    {
+     "text": "15-25 MILLION",
+     "label": "saal se sealed",
+     "on": "million",
+     "kind": "fact"
+    }
+   ],
+   "say": "Yeh dunya ki sab se badi subglacial lake hai. 4 kilometer ice ke neeche, size mein Lake Ontario jitni badi. Yeh 15 se 25 million saal se bahar ki dunya se bilkul kat chuki hai.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 25,
+     "label": "million saal isolated",
+     "suffix": " M",
+     "note": "Lake Vostok"
+    },
+    {
+     "type": "image",
+     "search": [
+      "Lake Vostok drilling",
+      "Russian Antarctic station"
+     ],
+     "ai": "drilling rig on Antarctic ice"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "25 million saal.",
+      "Andhera."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Scientists sochte hain ke ismein aisi unique life ho sakti hai jo dunya mein kahin aur nahi milti. 2012 mein Russians ne drill kiya, lekin samples contaminated ho gaye.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Lake Vostok ice core",
+      "subglacial lake water"
+     ],
+     "ai": "ice core sample from Antarctica"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "Unique life?",
+      "Abhi raaz."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "1. The Biggest Secret",
+   "mood": "epic",
+   "say": "Aur number ek. Sab se bada raaz.",
+   "visuals": [
+    {
+     "type": "count",
+     "number": 1,
+     "text": "Ice Ke Neeche",
+     "sub": "Poora naya dunya",
+     "hit": true
+    },
+    {
+     "type": "image",
+     "search": [
+      "Antarctica ice thickness",
+      "Antarctic ice sheet cross section"
+     ],
+     "ai": "thick ice sheet covering hidden landscape"
+    }
+   ]
+  },
+  {
+   "say": "Antarctica ka 98 percent hissa ice se dhaka hua hai. Is ice ki average thickness 2 kilometer se zyada hai. Iske neeche lakes, mountains, canyons, aur shayad aisi life chhupi hai jo ab tak insaan ne kabhi nahi dekhi.",
+   "visuals": [
+    {
+     "type": "stat",
+     "number": 2,
+     "label": "kilometer average ice thickness",
+     "suffix": " km",
+     "note": "Antarctic ice sheet"
+    },
+    {
+     "type": "image",
+     "search": [
+      "Bedmap Antarctica",
+      "subglacial topography"
+     ],
+     "ai": "map showing mountains and lakes under Antarctic ice"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "98% ice.",
+      "Andar raaz."
+     ],
+     "hit": true
+    }
+   ]
+  },
+  {
+   "say": "Yeh ice cores 800,000 saal tak ki climate history rakhti hain. Matlab Antarctica sirf barf nahi, balkay dunya ki history ka sab se bada record hai.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Antarctic ice core",
+      "ice core climate"
+     ],
+     "ai": "long cylindrical ice core sample"
+    },
+    {
+     "type": "text",
+     "lines": [
+      "800,000 saal",
+      "ki history."
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "Outro",
+   "mood": "hopeful",
+   "say": "To yeh the Antarctica ke paanch sab se bade raaz. Ice ke neeche ek poori dunya chhupi hui hai. Aapko in mein se kaun sa raaz sab se zyada pasand aaya? Comment mein zaroor batayein. Aur channel ko subscribe karna na bhoolein.",
+   "visuals": [
+    {
+     "type": "image",
+     "search": [
+      "Antarctica sunset",
+      "Antarctic landscape"
+     ],
+     "ai": "dramatic Antarctica ice landscape at sunset"
+    },
+    {
+     "type": "title",
+     "kicker": "Comment karein",
+     "text": "Aapka favourite raaz?",
+     "sub": "Subscribe karna na bhoolein"
+    }
+   ]
+  }
+ ]
+}
